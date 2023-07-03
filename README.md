@@ -1,6 +1,6 @@
 <h1 align="left">Hello World! 👋 </h1>
 
-![image](https://github.com/Ericdiii/Ericdiii/blob/main/tech.png?raw=true)
+![image](https://github.com/yangdi-cv/yangdi-cv/blob/main/tech.png?raw=true)
 
 I'm Yang Di and welcome to my GitHub profile!
 
