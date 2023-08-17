@@ -1,6 +1,7 @@
-<h1 align="left">Hello World! 👋 </h1>
+<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Yang+Di;+Welcome+to+My+Profile!;Always+learning+new+things+;Deep+learning;Computer+Vision)](https://git.io/typing-svg)
 
-![image](https://github.com/yangdi-cv/yangdi-cv/blob/main/tech.png?raw=true)
+![image](https://github.com/yangdi-cv/yangdi-cv/blob/main/tech1.png?raw=true)
 
 I'm Yang Di and welcome to my GitHub profile!
 
