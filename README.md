@@ -32,6 +32,9 @@ I'm Yang Di and welcome to my GitHub profile!
 <a href="https://www.facebook.com/ericdiii" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-ericdiii-05122A?style=flat&logo=facebook" alt="codepen"/>
 </a>
+<a href="https://www.instagram.com/ericdiii_/" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-ericdiii-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
 <a href="https://github.com/Ericdiii" target="_blank">
   <img align="center" img src="https://komarev.com/ghpvc/?username=ericdiii&color=blue" alt="Profile views" />
 </a>
