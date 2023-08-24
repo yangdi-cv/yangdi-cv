@@ -6,8 +6,8 @@
 
 I'm Yang Di and welcome to my GitHub profile!
 
-<a href="https://open.spotify.com/search/don%20diablo" target="_blank">
-  <img align="right" img src="https://spotify-github-profile.vercel.app/api/view?uid=314en4ia7eeyco74hvxp6254hmam&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=4eb16f&bar_color_cover=true" width="119"/>
+<a href="https://github.com/yangdi-cv" target="_blank">
+  <img align="right" img src="./default.svg" width="119"/>
 </a>
 
  <a href="https://github.com/yangdi-cv"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yangdi-cv&layout=compact">
