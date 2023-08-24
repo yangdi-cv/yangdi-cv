@@ -1,6 +1,6 @@
 <img align="center" src="banner.gif" alt="banner">
 
- <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
+ <a href="https://github.com/yangdi-cv"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=007acc&size=22&center=true&vCenter=true&width=700&lines=Hi+there+👋,+I+am+Yang+Di;+Welcome+to+My+Profile!;Always+learning+new+things+;Deep+learning;Computer+Vision)](https://git.io/typing-svg)
 
 
@@ -32,13 +32,16 @@ I'm Yang Di and welcome to my GitHub profile!
 <a href="https://www.instagram.com/ericdiii_/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-ericdiii-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
-<a href="https://github.com/Ericdiii" target="_blank">
+<a href="https://github.com/yangdi-cv" target="_blank">
   <img align="center" img src="https://komarev.com/ghpvc/?username=ericdiii&color=red" alt="Profile views" />
 </a>
 
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Tools
-![image](https://github.com/yangdi-cv/yangdi-cv/blob/main/tech1.png?raw=true)
+<a href="https://github.com/yangdi-cv" target="_blank">
+  <img align="center" img src="https://github.com/yangdi-cv/yangdi-cv/blob/main/tech1.png?raw=true"/>
+</a>
+
 <p align="left">
   <img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" >
   <img alt="pytorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white" >
