@@ -33,7 +33,7 @@ I'm Yang Di and welcome to my GitHub profile!
  <img align="center" src="https://img.shields.io/badge/-ericdiii-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 <a href="https://github.com/yangdi-cv" target="_blank">
-  <img align="center" img src="https://komarev.com/ghpvc/?username=ericdiii&color=red" alt="Profile views" />
+  <img align="center" img src="https://komarev.com/ghpvc/?username=ericdiii&color=blue" alt="Profile views" />
 </a>
 
 
