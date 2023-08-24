@@ -38,6 +38,7 @@ I'm Yang Di and welcome to my GitHub profile!
 
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Tools
+![image](https://github.com/yangdi-cv/yangdi-cv/blob/main/tech1.png?raw=true)
 <p align="left">
   <img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" >
   <img alt="pytorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white" >
@@ -54,5 +55,11 @@ I'm Yang Di and welcome to my GitHub profile!
 </p>
 
 
-![image](https://github.com/yangdi-cv/yangdi-cv/blob/main/tech1.png?raw=true)
 
+
+<div> 
+  <p align="center">
+    <a href="#"><img title="Snake animation" src="./snake.svg">
+    </a>
+  </p>
+</div>
