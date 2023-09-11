@@ -10,7 +10,7 @@ I'm Yang Di and welcome to my GitHub profile!
   <img align="right" img src="./default.svg" width="119"/>
 </a>
 
- <a href="https://github.com/yangdi-cv"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yangdi-cv&layout=compact">
+ <a href="https://github.com/yangdi-cv"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yangdi-cv&&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=52fa5a,4dfcff,c64dff&theme=graywhite">
 </a>
 
 
