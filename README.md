@@ -4,7 +4,7 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=007acc&size=22&center=true&vCenter=true&width=700&lines=Hi+there+👋,+I+am+Yang+Di;+Welcome+to+My+Profile!;Always+learning+new+things+;Deep+learning;Computer+Vision)](https://git.io/typing-svg)
 
 <a href="https://github.com/yangdi-cv" target="_blank">
-  <img align="right" img src="./default.svg" width="165"/>
+  <img align="right" img src="./default.svg" width="150"/>
 </a>
 
 I'm Yang Di and welcome to my GitHub profile!
