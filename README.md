@@ -7,11 +7,10 @@
 I'm Yang Di and welcome to my GitHub profile!
 
 <a href="https://github.com/yangdi-cv" target="_blank">
-  <img align="right" img src="./default.svg" width="119"/>
+  <img align="right" img src="./default.svg" width="129"/>
 </a>
 
- <a href="https://github.com/yangdi-cv"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yangdi-cv&&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=52fa5a,4dfcff,c64dff&theme=graywhite">
-</a>
+
 
 
 **About me**
@@ -23,15 +22,7 @@ I'm Yang Di and welcome to my GitHub profile!
 - 🧡 Soccer / Running / Badminton / Drawing / EDM
 
 
-<a href="https://www.linkedin.com/in/-yangdi/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-yangdi-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://www.facebook.com/ericdiii" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-ericdiii-05122A?style=flat&logo=facebook" alt="codepen"/>
-</a>
-<a href="https://blog.csdn.net/ericdiii/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-ericdiii-05122A?style=flat&logo=c" alt="c"/>
-</a>
+
 <a href="https://github.com/yangdi-cv" target="_blank">
   <img align="center" img src="https://komarev.com/ghpvc/?username=ericdiii&color=blue" alt="Profile views" />
 </a>
