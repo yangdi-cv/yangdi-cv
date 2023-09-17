@@ -1,15 +1,9 @@
 <img align="center" src="banner.gif" alt="banner">
 
  <a href="https://github.com/yangdi-cv"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=007acc&size=22&center=true&vCenter=true&width=700&lines=Hi+there+👋,+I+am+Yang+Di;+Welcome+to+My+Profile!;Always+learning+new+things+;Deep+learning;Computer+Vision)](https://git.io/typing-svg)
-
-
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Tools 
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=007acc&size=22&center=true&vCenter=true&width=700&lines=Hi+there+👋,+I+am+Yang+Di;+Welcome+to+My+Profile!;Always+learning+new+things+;Deep+learning;Computer+Vision)](https://git.io/typing-svg)
 
 ![image](https://github.com/yangdi-cv/yangdi-cv/blob/main/tech1.png?raw=true)
-
-
 
 <p align="left">
   <img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" >
@@ -25,8 +19,6 @@
   <img alt="latex" src="https://img.shields.io/badge/LaTeX-47A141?style=flat-square&logo=LaTeX&logoColor=white" >
   <img alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" >
 </p>
-
-
 
 <div> 
   <p align="center">
