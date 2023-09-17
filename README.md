@@ -1,36 +1,15 @@
 <img align="center" src="banner.gif" alt="banner">
 
  <a href="https://github.com/yangdi-cv"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=007acc&size=22&center=true&vCenter=true&width=700&lines=Hi+there+👋,+I+am+Yang+Di;+Welcome+to+My+Profile!;Always+learning+new+things+;Deep+learning;Computer+Vision)](https://git.io/typing-svg)
-
-<a href="https://github.com/yangdi-cv" target="_blank">
-  <img align="right" img src="./default.svg" width="180"/>
-</a>
-
-I'm Yang Di and welcome to my GitHub profile!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=007acc&size=22&center=true&vCenter=true&width=700&lines=Hi+there+👋,+I+am+Yang+Di;+Welcome+to+My+Profile!;Always+learning+new+things+;Deep+learning;Computer+Vision)](https://git.io/typing-svg)
 
 
 
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Tools 
 
-
-
-**About me**
-
-- 📚 PhD student at [UOW](https://www.uow.edu.au/)
-
-- 👨🏻‍💻 Focus on deep learning and computer vision
-
-- 🧡 Soccer / Running / Badminton / Drawing / EDM
-
-
-
-<a href="https://github.com/yangdi-cv" target="_blank">
-  <img align="center" img src="https://komarev.com/ghpvc/?username=ericdiii&color=blue" alt="Profile views" />
-</a>
-
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Tools
 ![image](https://github.com/yangdi-cv/yangdi-cv/blob/main/tech1.png?raw=true)
+
+
 
 <p align="left">
   <img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" >
@@ -46,7 +25,6 @@ I'm Yang Di and welcome to my GitHub profile!
   <img alt="latex" src="https://img.shields.io/badge/LaTeX-47A141?style=flat-square&logo=LaTeX&logoColor=white" >
   <img alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" >
 </p>
-
 
 
 
