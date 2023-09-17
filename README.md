@@ -1,7 +1,7 @@
 <img align="center" src="banner.gif" alt="banner">
 
  <a href="https://github.com/yangdi-cv"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=007acc&size=22&center=true&vCenter=true&width=700&lines=Hi+there+👋,+I+am+Yang+Di;+Welcome+to+My+Profile!;Always+learning+new+things+;Deep+learning;Computer+Vision)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=007acc&size=22&center=true&vCenter=true&width=700&lines=Hi+there+👋,+I+am+Yang+Di;+Welcome+to+My+Profile!;Always+learning+new+things+;Computer+Vision;Deep+learning;Machine+Learning;Artificial+Intelligence)](https://git.io/typing-svg)
 
 ![image](https://github.com/yangdi-cv/yangdi-cv/blob/main/tech1.png?raw=true)
 
