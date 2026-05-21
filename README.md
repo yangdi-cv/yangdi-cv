@@ -1,5 +1,3 @@
-<img align="center" src="banner.gif" alt="banner">
-
  <a href="https://github.com/yangdi-cv"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=007acc&size=22&center=true&vCenter=true&width=700&lines=👋+Hi+there,+I+am+Yang+Di.+Welcome+to+My+GitHub!)](https://git.io/typing-svg)
 
@@ -19,10 +17,3 @@
   <img alt="latex" src="https://img.shields.io/badge/LaTeX-47A141?style=flat-square&logo=LaTeX&logoColor=white" >
   <img alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" >
 </p>
-
-<div> 
-  <p align="center">
-    <a href="#"><img title="Snake animation" src="./snake.svg">
-    </a>
-  </p>
-</div>
